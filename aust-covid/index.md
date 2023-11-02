@@ -7,3 +7,7 @@ Australian COVID-19 analysis outputs
 - [Deaths, runs versus targets](deaths_ma_3dspaghetti.html)
 - [Seropositive proportion, runs versus targets](adult_seropos_prop_3dspaghetti.html)
 - [Effective reproduction number, runs](reproduction_number_3dspaghetti.html)
+
+## Mixing matrices
+- [Raw](raw_matrices.html)
+- [Adjusted](adjusted_matrices.html)
