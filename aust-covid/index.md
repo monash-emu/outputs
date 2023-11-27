@@ -12,12 +12,15 @@ Australian COVID-19 analysis outputs
 - [Raw](raw_matrices.html)
 - [Adjusted](adjusted_matrices.html)
 
-## Parameter pairs
-Pair-wise correlations of selected parameters
-- [Contact rate versus Infectious period](corr_contact_rateXinfectious_period.html)
-- [Contact rate versus Prop immune](corr_contact_rateXimm_prop.html)
-- [CDR versus Immune period](corr_start_cdrXnatural_immunity_period.html)
-- [IFR adjuster versus Immune period](corr_ifr_adjusterXnatural_immunity_period.html)
-- [Immune period versus BA.2 escape](corr_natural_immunity_periodXba2_escape.html)
-- [Immune period versus BA.5 escape](corr_natural_immunity_periodXba5_escape.html)
-- [BA.5 escape versus BA.5 seed](corr_ba5_escapeXba5_seed_time.html)
+## Parameter combinations
+Three-way correlations of selected parameters
+- [contact_rate versus start_cdr versus infectious_period](corr_contact_rateXstart_cdrXinfectious_period)
+- [contact_rate versus start_cdr versus imm_prop](corr_contact_rateXstart_cdrXimm_prop)
+- [contact_rate versus start_cdr versus natural_immunity_period](corr_contact_rateXstart_cdrXnatural_immunity_period)
+- [contact_rate versus infectious_period versus imm_prop](corr_contact_rateXinfectious_periodXimm_prop)
+- [contact_rate versus infectious_period versus natural_immunity_period](corr_contact_rateXinfectious_periodXnatural_immunity_period)
+- [contact_rate versus imm_prop versus natural_immunity_period](corr_contact_rateXimm_propXnatural_immunity_period)
+- [start_cdr versus infectious_period versus imm_prop](corr_start_cdrXinfectious_periodXimm_prop)
+- [start_cdr versus infectious_period versus natural_immunity_period](corr_start_cdrXinfectious_periodXnatural_immunity_period)
+- [start_cdr versus imm_prop versus natural_immunity_period](corr_start_cdrXimm_propXnatural_immunity_period)
+- [infectious_period versus imm_prop versus natural_immunity_period](corr_infectious_periodXimm_propXnatural_immunity_period)
