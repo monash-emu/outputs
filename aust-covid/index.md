@@ -14,13 +14,13 @@ Australian COVID-19 analysis outputs
 
 ## Parameter combinations
 Three-way correlations of selected parameters
-- [contact_rate versus start_cdr versus infectious_period](corr_contact_rateXstart_cdrXinfectious_period)
-- [contact_rate versus start_cdr versus imm_prop](corr_contact_rateXstart_cdrXimm_prop)
-- [contact_rate versus start_cdr versus natural_immunity_period](corr_contact_rateXstart_cdrXnatural_immunity_period)
-- [contact_rate versus infectious_period versus imm_prop](corr_contact_rateXinfectious_periodXimm_prop)
-- [contact_rate versus infectious_period versus natural_immunity_period](corr_contact_rateXinfectious_periodXnatural_immunity_period)
-- [contact_rate versus imm_prop versus natural_immunity_period](corr_contact_rateXimm_propXnatural_immunity_period)
-- [start_cdr versus infectious_period versus imm_prop](corr_start_cdrXinfectious_periodXimm_prop)
-- [start_cdr versus infectious_period versus natural_immunity_period](corr_start_cdrXinfectious_periodXnatural_immunity_period)
-- [start_cdr versus imm_prop versus natural_immunity_period](corr_start_cdrXimm_propXnatural_immunity_period)
-- [infectious_period versus imm_prop versus natural_immunity_period](corr_infectious_periodXimm_propXnatural_immunity_period)
+- [Contact rate versus CDR versus Infectious period](corr_contact_rateXstart_cdrXinfectious_period)
+- [Contact rate versus CDR versus Prop immune](corr_contact_rateXstart_cdrXimm_prop)
+- [Contact rate versus CDR versus Immune period](corr_contact_rateXstart_cdrXnatural_immunity_period)
+- [Contact rate versus Infectious period versus Prop immune](corr_contact_rateXinfectious_periodXimm_prop)
+- [Contact rate versus Infectious period versus Immune period](corr_contact_rateXinfectious_periodXnatural_immunity_period)
+- [Contact rate versus Prop immune versus Immune period](corr_contact_rateXimm_propXnatural_immunity_period)
+- [CDR versus Infectious period versus Prop immune](corr_start_cdrXinfectious_periodXimm_prop)
+- [CDR versus Infectious period versus Immune period](corr_start_cdrXinfectious_periodXnatural_immunity_period)
+- [CDR versus Prop immune versus Immune period](corr_start_cdrXimm_propXnatural_immunity_period)
+- [Infectious period versus Prop immune versus Immune period](corr_infectious_periodXimm_propXnatural_immunity_period)
